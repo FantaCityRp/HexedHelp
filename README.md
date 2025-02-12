@@ -5,7 +5,7 @@ Make sure your running at least v3.0.3 of Modmail.
 in your config.ini file, make a new line and add:  
 ```ini
 
-plugins[] = npm:MMPlugins/HexedHelp
+plugins[] = npm:FantaCityRp/HexedHelp
 extraIntents[] = guildMessageReactions
 ```
 Stop your bot.  
