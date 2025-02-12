@@ -28,4 +28,5 @@ Use [prefix]help (by default, your prefix is !) and watch the magic!
 ```
 English - en
 German - de
+French - fr
 ```
