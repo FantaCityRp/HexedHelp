@@ -1,0 +1,37 @@
+{
+    "thread": {
+        "title": "Commandes du bot ModMail page 1",
+        "title2": "Commandes du bot ModMail page 2",
+        "reply": "Envoyer une réponse à l'utilisateur.",
+        "areply": "Envoyer une réponse anonyme à l'utilisateur. Les réponses anonymes n'affichent que le rôle du modérateur dans la réponse.",
+        "close": "Fermer un fil de discussion. Ajoutez <temps> pour retarder la fermeture ou laissez vide pour fermer immédiatement.",
+        "closecancel": "Annuler une fermeture programmée.",
+        "logs": "Lister les journaux précédents de ModMail avec l'utilisateur.",
+        "block": "Bloquer l'utilisateur pour l'empêcher d'utiliser ModMail.",
+        "unblock": "Débloquer l'utilisateur spécifié, lui permettant d'utiliser ModMail à nouveau.",
+        "move": "Déplacer le fil ModMail vers une autre catégorie. Nécessite que allowMove soit activé dans les paramètres du bot.",
+        "suspend": "Suspendre un fil. Un fil suspendu se comportera comme s'il était fermé, mais le bot ne supprime pas le canal.",
+        "unsuspend": "Réactiver un fil suspendu. Voir suspend ci-dessus.",
+        "alert": "Vous avertit lorsqu'une nouvelle réponse est reçue dans le fil. Ajoutez 'cancel' pour annuler !",
+        "edit": "Modifier votre propre réponse envoyée avec reply. <numéro> est le numéro du message affiché devant les réponses du staff dans le canal du fil.",
+        "msgdelete": "Supprimer votre propre réponse envoyée avec reply. <numéro> est le numéro du message affiché devant les réponses du staff dans le canal du fil.",
+        "displayrole": "Afficher votre rôle d'affichage pour le fil - le rôle affiché devant votre nom dans vos réponses. Ajoutez 'reset' à la fin pour réinitialiser par défaut.",
+        "loglink": "Obtenir un lien vers le journal du fil ModMail ouvert.",
+        "sloglink": "Journal du fil, affichant uniquement les messages envoyés/recus par l'utilisateur (ignore les discussions internes des modos).",
+        "vloglink": "Obtenir un lien vers le journal du fil ModMail ouvert, affichant des détails supplémentaires sur les IDs de canal et de message entre le bot et l'utilisateur. Utile pour signaler des messages à l'équipe Trust & Safety de Discord.",
+        "id": "Afficher l'ID de l'utilisateur.",
+        "dmcid": "Afficher l'ID du canal DM actuel avec l'utilisateur.",
+        "message": "Afficher l'ID du canal DM, l'ID du message DM et le lien du message d'un utilisateur spécifié. <numéro> est le numéro du message affiché devant les réponses du staff dans le canal du fil."
+    },
+    "global": {
+        "title": "Commandes Globales du bot ModMail",
+        "newthread": "Ouvrir un fil ModMail avec un utilisateur.",
+        "glogs": "Lister les journaux ModMail précédents avec l'utilisateur spécifié.",
+        "block": "Bloquer l'utilisateur spécifié pour ModMail. Ajoutez un temps pour spécifier une durée.",
+        "unblock": "Débloquer l'utilisateur spécifié, lui permettant d'utiliser ModMail à nouveau.",
+        "is_blocked": "Vérifier si l'utilisateur spécifié est bloqué.",
+        "role": "Afficher votre rôle d'affichage par défaut - le rôle affiché devant votre nom dans les réponses. Ajoutez 'reset' pour réinitialiser le rôle par défaut.",
+        "role2": "Changer votre rôle d'affichage par défaut pour n'importe quel rôle que vous possédez actuellement.",
+        "version": "Afficher la version du bot ModMail."
+    }
+}
